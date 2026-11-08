@@ -2,15 +2,15 @@
 
 > Análisis de comportamiento financiero, satisfacción y preferencias de 800 clientes jóvenes (18–30 años) para identificar oportunidades de mejora en la experiencia de la app.
 
-**Aviso:** proyecto académico/de práctica, no afiliado al BCP. [Indicar si los datos son simulados.]
+**Aviso:** proyecto académico/de práctica, no afiliado al BCP.
 
 ## 🎯 Problema de negocio
 ¿Qué falla en la experiencia de la app para clientes jóvenes, y dónde hay oportunidades medibles de mejora?
 
 ## 📊 Datos
 - Tamaño: 800 clientes, variables de comportamiento financiero, uso digital, satisfacción y preferencias.
-- Origen: [simulado / anonimizado / fuente].
-- Limpieza: valores faltantes, outliers, codificación de variables categóricas (ver `01_limpieza.ipynb`).
+- Origen: Reclutador de BCP.
+- Limpieza: valores faltantes, outliers, codificación de variables categóricas.
 
 ## 🧪 Metodología
 1. **Limpieza y EDA** con pandas y NumPy.
