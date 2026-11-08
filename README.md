@@ -35,4 +35,4 @@ Para el dashboard: abrir `dashboard/dashboard_bcp.pbix` con Power BI Desktop.
 - Los modelos son de demostración y no sustituyen una validación en producción.
 
 ## 👤 Autor
-Juan Llauce · Estudiante de Estadística, UNMSM · [LinkedIn]
+Juan Llauce · Estudiante de Estadística, UNMSM ·
