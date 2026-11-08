@@ -27,7 +27,7 @@
 - La satisfacción promedio con la app es de **3.4 / 5**.
 - La mayoría confía más en su familia o comunidad que en el banco para decisiones financieras.
 
-Para el dashboard: abrir `dashboard/dashboard_bcp.pbix` con Power BI Desktop.
+Para el dashboard: abrir con Power BI Desktop.
 
 ## ⚠️ Limitaciones
 - Muestra de 800 clientes; los resultados no son generalizables a toda la base del banco.
